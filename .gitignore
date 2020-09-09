@@ -1,3 +1,9 @@
 *.csv
 *.pyc
 *.jpg
+*.jpeg
+*.html
+.ipynb_checkpoints/ScrapeURLs-checkpoint.ipynb
+.ipynb_checkpoints/GetCategory&URLs-checkpoint.ipynb
+.ipynb_checkpoints/GetCategory&URLs-checkpoint.ipynb
+.ipynb_checkpoints/ScrapeURLs-checkpoint.ipynb
