@@ -6,3 +6,4 @@
 .ipynb_checkpoints/GetCategory&URLs-checkpoint.ipynb
 .ipynb_checkpoints/ScrapeURLs-checkpoint.ipynb
 data/images.zip
+.DS_Store
